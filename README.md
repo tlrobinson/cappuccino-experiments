@@ -10,4 +10,6 @@ Experiments
 
 * FunctionForwarder: allows any JavaScript Function to be used as a target/observer/etc. Forwards all messages to itself.
 
-* JSKit: pure-JavaScript bindings to Objective-J runtime.
+* JSKit: pure-JavaScript bindings to Objective-J runtime (message sending)
+
+* JSKit2: another pure-JS binding to Objective-J runtime (class definition)
