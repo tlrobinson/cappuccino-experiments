@@ -6,6 +6,8 @@ A dumping ground for experimental feature additions to Cappuccino and Objective-
 Experiments
 -----------
 
-* Inline: executes inline script tags which have their type set to "text/objective-j"
+* Inline: executes inline script tags which have their type set to "text/objective-j".
 
 * FunctionForwarder: allows any JavaScript Function to be used as a target/observer/etc. Forwards all messages to itself.
+
+* JSKit: pure-JavaScript bindings to Objective-J runtime.
