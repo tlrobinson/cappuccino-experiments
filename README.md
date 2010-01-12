@@ -7,3 +7,5 @@ Experiments
 -----------
 
 * Inline: executes inline script tags which have their type set to "text/objective-j"
+
+* FunctionForwarder: allows any JavaScript Function to be used as a target/observer/etc. Forwards all messages to itself.
