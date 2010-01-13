@@ -13,3 +13,5 @@ Experiments
 * JSKit: pure-JavaScript bindings to Objective-J runtime (message sending)
 
 * JSKit2: another pure-JS binding to Objective-J runtime (class definition)
+
+* MethodSwizzle: straight port of the Objective-C method swizzling function on http://www.cocoadev.com/index.pl?MethodSwizzling
